@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the static site into the public directory."""
+"""Tiny static site generator for the public directory."""
 
 from html import escape
 from pathlib import Path
